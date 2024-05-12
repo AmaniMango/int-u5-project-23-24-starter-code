@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #e0f7fa;
+    background-color: #f8f0ea;
     /* Light cyan */
     text-align: center;
     margin: 0;
@@ -11,7 +11,7 @@ h1 {
     font-family: 'Bebas Neue', cursive;
     font-size: 48px;
     /* Larger font size for headings */
-    color: #00796b;
+    color: #5a1228;
     /* Teal */
     margin-bottom: 30px;
 }
@@ -22,7 +22,7 @@ img.pop-icon {
 }
 
 p {
-    color: #004d40;
+    color: #4d0013;
     /* Darker teal for contrast */
     margin: 10px 0;
 }
@@ -59,7 +59,7 @@ button {
 }
 
 button:hover {
-    background-color: #e64a19;
+    background-color: #781181;
     /* Darker orange for hover effect */
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
     /* Deeper shadow for hover effect */
